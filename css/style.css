@@ -1,0 +1,28 @@
+.weather-app-wrapper {
+  /* The image used */
+  background-image: url("/images/bg-image.jpg");
+
+  /* Full height */
+  height: 100vh;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.overlay {
+  background: #000000b6;
+  height: 100vh;
+  width: 100%;
+}
+
+.text-center {
+  color: #d3c5c5;
+}
+
+.error-msg{
+  color: #c03232;
+}
+
+
